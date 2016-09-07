@@ -13,13 +13,33 @@ save our states not commiting our files.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+  If we have any changes we add it to the staging area, and then, if a logical
+ change happens, we commit it.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+ When I want to experiment new feature to add my program, by using branch I can
+keep my correctly working version and experimental version. And when I want to 
+make another version which is performed in another language but same feature, 
+I can use branch to make that.
+
 How do the diagrams help you visualize the branch structure?
+
+ By looking at the diagrams we can easily check whether a node are reachable from
+ the other nodes and when and where the braches are divided.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+  By merging two branches, now we have one merged branch which have both features
+ of two branches. 
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+  Most of cases, we have our roles when we develop a program and we just add some
+ features as our roles. In that way, we really don't have much chances to experience
+ merge coflict. So, automatic merging makes our job much easier.
+  Even if automatic merging makes some mistakes, cause we have all the history we've
+ made, we can easily fix it
