@@ -35,4 +35,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+     When I am not sure the changes I made would be agreed by my co-worker.
+    Especially when I suggest some features, but it need to be discussed with
+    other co-workers, we can get some benefits from using branches.
