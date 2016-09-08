@@ -15,7 +15,10 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    The fork is used to get another people's repositories in Github to my Github.
+  And the clone is used to get those repositories to my local stroge.
+  And the branch is used when we want to add new feature in our program but when
+  we want to keep our original.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
